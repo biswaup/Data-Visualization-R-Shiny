@@ -1,4 +1,4 @@
-# Data-Visualization-R-Shiny
+# Interactive-Visualization-R-Shiny
 The project has been done as part of the course curriculum. It is a Shiny web app consisting of data visualizations on the dataset europe.csv.
 The code uses:
 1.  R
